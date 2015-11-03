@@ -1,1 +1,1 @@
-##Djanog voting site project
+##Django voting site project
